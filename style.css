@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-image: url(background_image.jpg);
+        .nav {
+            background-color: black;
+        }
+}
+h1, h3, p {
+    background-color: whitesmoke;
+    color: rgb(92, 120, 27);
+    font-family: sans-serif;
+    font-size: larger;
+    font-weight: 800;
+    font-style: italic;
+
+}
+nav {
+    background-color: burlywood;
+    color: antiquewhite;
+}
+nav a {
+    text-decoration: none;
+    color: brown;
+    transition: step-end;
+    
+}
+img {
+    border-radius: 50%;
+}
+label {
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: narrower;
+    color: white;
+}
+button {
+    border: coral;
+    border-radius: 5px;
+    background-color: gray;
+    width: 100px;
+    height: 40px;
+    
+    
+}
+aside {
+    background-color:green;
+    font-size: larger;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+
+.EatwithP {
+    text-shadow: 30px;
+    font-weight: 800;
+    font-size: xx-large;
+    font-style: italic;
+}
